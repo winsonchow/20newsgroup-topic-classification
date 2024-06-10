@@ -21,7 +21,7 @@
 
 ## Installation and Setup
 To set up the project environment, follow these steps:
-1. Clone the repository: `git clone https://github.com/winsonchow/20newsgroup-topic-classification.git`
+1. Clone the repository: `git clone https://github.com/winsonchow/20newsgroup_topic_classification.git`
 2. Navigate to the project directory: `cd 20newsgroup-topic-classification`
 3. Install the required libraries: `pip install -r requirements.txt`
 
