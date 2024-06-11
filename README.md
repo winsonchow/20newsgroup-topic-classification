@@ -43,5 +43,5 @@ To set up the project environment, follow these steps:
 ## Future Work
 
 ## Acknowledgements
-Special thanks to Professor John for his guidance and support.
+Special thanks to Professor Lim for his guidance and support.
 
