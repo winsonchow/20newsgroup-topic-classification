@@ -60,7 +60,7 @@ Possible improvements include:
 ## Future Work
 Future work could involve:
 - Exploring other transformer-based models.
-- Implementing more sophisticated techniques to handle imbalanced classes.
+- Implementing techniques to handle imbalanced classes.
 - Extending the model to classify documents from other datasets or domains.
 
 ## Acknowledgements
