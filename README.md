@@ -47,10 +47,10 @@ The model's performance is evaluated using a hold-out test set that the model ha
 
 ## Results
 The BERT model demonstrates high accuracy in classifying text documents into the correct newsgroups, showcasing the effectiveness of contextual word representations.
-Accuracy: 0.8621
-Precision: 0.8649
-Recall: 0.8621
-F1 Score: 0.8621
+- Accuracy: 0.8621
+- Precision: 0.8649
+- Recall: 0.8621
+- F1 Score: 0.8621
 
 ## Challenges and Improvements
 Possible improvements include:
